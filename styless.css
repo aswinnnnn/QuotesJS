@@ -41,7 +41,7 @@ button {
     margin-top: 20px;
 }
 
-.button-container{
+.button{
     display: flex;
     justify-content: center;
     position: absolute;
